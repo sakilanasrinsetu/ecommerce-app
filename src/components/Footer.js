@@ -39,10 +39,10 @@ const Footer = () => {
                 hno : 277 Near Vill chopal, <br /> Sonipat haryana <br /> 
                 PinCode: 136628
               </address>
-              <a href='tel:+91 6819684' className='mt-4 d-block mb-1 text-white'>
+              <a href='tel:+91 6819684' className='mt-3 d-block mb-1 text-white'>
                 +91 6819684
               </a>
-              <a href='mailto:info@daino.com' className='mt-4 d-block mb-0 text-white'>
+              <a href='mailto:info@daino.com' className='mt-2 d-block mb-0 text-white'>
                 info@daino.com
               </a>
               <div className='social_icons d-flex align-items-center gap-30 mt-4'>
