@@ -24,7 +24,8 @@ const Header = () => {
       <div className='row'>
         <div className='col-2'>
           <h1>
-            <Link className='text-white'>Digit.</Link>
+            <Link className='text-white'>SNS.
+            </Link>
           </h1>
         </div>
         <div className='col-5'>
