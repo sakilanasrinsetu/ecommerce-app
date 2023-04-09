@@ -41,6 +41,9 @@ a{
   box-shadow: none;
   border-color: inherit;
 }
+.gap-5{
+  gap: 5px;
+}
 
 .gap-10{
   gap: 10px;
@@ -60,6 +63,7 @@ a{
   font-size: 14px;
   padding: 13px 33px;
   border-radius: 25px;
+  transition: 1s;
 }
 
 .button:hover{
@@ -363,3 +367,17 @@ footer .input-group-text{
 }
 
 /* Product Section End Here*/
+
+/* Special Product Section Start Here*/
+
+.special-product-card{
+  padding: 20px 10px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.progress{
+  height: 4px;
+}
+
+/* Special Product Section End Here*/

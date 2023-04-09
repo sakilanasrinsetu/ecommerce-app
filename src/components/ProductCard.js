@@ -24,11 +24,11 @@ const ProductCard = () => {
                 <ReactStars
                     count={5}
                     size={24}
-                    value="2.5"
+                    value={3}
                     isHalf={true}
                     edit={false}
                     activeColor="#ffd700"
-                />,
+                />
 
                 <p className='price'>$100.00</p>
             </div>
